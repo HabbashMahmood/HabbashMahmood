@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working on Android Kotlin/Java.<br>🌱 I’m currently learning more about Flutter and Clean Architecture.<br>🤔 I’m looking for help with Compose documentation.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I spend almost 8 hours learning a new tech stack.<br>
+😄 Pronouns: He/His<br>🔭 I’m currently working on Android Kotlin/Java.<br>🌱 I’m currently learning more about Flutter and Clean Architecture.<br>🤔 I’m looking for help with Compose documentation.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I daily spend almost 8 hours learning a new tech stack.<br>
 
 
 ## 🌐 Socials:
